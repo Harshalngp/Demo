@@ -1,0 +1,2 @@
+Hello,
+	This is just to check that how git is work.
